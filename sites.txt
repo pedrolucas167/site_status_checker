@@ -2,3 +2,4 @@ google.com
 github.com
 openai.com
 uol.com.br
+ollama.com
